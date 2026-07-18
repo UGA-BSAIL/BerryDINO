@@ -96,7 +96,7 @@ The Blueberry Semantic Segmentation Dataset (Berry-Seg) supports blueberry fruit
 
 The dataset is publicly available on Kaggle:
 
-**[Download the Berry-Seg dataset from Kaggle](KAGGLE_DATASET_LINK)**
+**[Download the Berry-Seg dataset from Kaggle](KAGGLE_DATASET_LINK)**(Coming Soon...)
 
 Dataset statistics, representative samples, and the expected directory structure are provided in:
 
@@ -190,7 +190,7 @@ The BerryDINO manuscript and formal citation information will be added after pub
 ```bibtex
 @article{berrydino,
   title   = {BerryDINO: ...},
-  author  = {...},
+  author  = {Wang, Rui-Feng and ... and Li, Changying},
   journal = {...},
   year    = {...}
 }
