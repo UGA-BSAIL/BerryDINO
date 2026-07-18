@@ -8,6 +8,12 @@ BerryDINO uses a frozen DINOv3 backbone together with three task-specific module
 - Bidirectional Hierarchical Feature Decoder (BHD);
 - Multi-Receptive Gated Refinement (MGR).
 
+<p align="center">
+  <img src="assets/BerryDINO_Overall_Architecture.jpg" width="800">
+  <br>
+  <em><strong>Fig.1</strong> Overall architecture of BerryDINO.</em>
+</p>
+
 ## Repository Structure
 
 ```text
