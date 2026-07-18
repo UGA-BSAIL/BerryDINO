@@ -11,7 +11,7 @@ The dataset contains four subsets. `Bruise Seg.` and `Fruit Seg.` are used for m
 
 The Berry-Seg dataset is publicly available on Kaggle:
 
-**[Download Berry-Seg from Kaggle](KAGGLE_DATASET_LINK)**
+**[Download Berry-Seg from Kaggle](KAGGLE_DATASET_LINK)**(Coming Soon...)
 
 ## Dataset Samples
 
