@@ -123,22 +123,22 @@ Pretrained BerryDINO (From S to L) checkpoints are provided for the two primary 
 ```text
 checkpoints/
 ├── bruise_seg/
-│   └── ViT-S
-│       └── best_miou.pth
-│   └── ViT-S+
-│       └── best_miou.pth
-│   └── ViT-B
-│       └── best_miou.pth
+│   ├── ViT-S
+│   │   └── best_miou.pth
+│   ├── ViT-S+
+│   │   └── best_miou.pth
+│   ├── ViT-B
+│   │   └── best_miou.pth
 │   └── ViT-L
 │       └── best_miou.pth
 └── fruit_seg/
-│   └── ViT-S
-│       └── best_miou.pth
-│   └── ViT-S+
-│       └── best_miou.pth
-│   └── ViT-B
-│       └── best_miou.pth
-│   └── ViT-L
+    ├── ViT-S
+    │   └── best_miou.pth
+    ├── ViT-S+
+    │   └── best_miou.pth
+    ├── ViT-B
+    │   └── best_miou.pth
+    └── ViT-L
         └── best_miou.pth
 ```
 
