@@ -118,14 +118,28 @@ src/config.py
 
 ## Pretrained Checkpoints
 
-Pretrained BerryDINO-S checkpoints are provided for the two primary segmentation tasks:
+Pretrained BerryDINO (From S to L) checkpoints are provided for the two primary segmentation tasks:
 
 ```text
 checkpoints/
 ├── bruise_seg/
-│   └── berrydino_vits16_best_miou.pth
+│   └── ViT-S
+│       └── best_miou.pth
+│   └── ViT-S+
+│       └── best_miou.pth
+│   └── ViT-B
+│       └── best_miou.pth
+│   └── ViT-L
+│       └── best_miou.pth
 └── fruit_seg/
-    └── berrydino_vits16_best_miou.pth
+│   └── ViT-S
+│       └── best_miou.pth
+│   └── ViT-S+
+│       └── best_miou.pth
+│   └── ViT-B
+│       └── best_miou.pth
+│   └── ViT-L
+        └── best_miou.pth
 ```
 
 These checkpoints contain the trainable BerryDINO parameters. The frozen DINOv3 ViT-S/16 backbone weights must be downloaded separately.
