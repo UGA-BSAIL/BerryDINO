@@ -102,7 +102,7 @@ The Blueberry Semantic Segmentation Dataset (Berry-Seg) supports blueberry fruit
 
 The dataset is publicly available on Kaggle:
 
-**[Download the Berry-Seg dataset from Kaggle]([KAGGLE_DATASET_LINK](https://www.kaggle.com/datasets/sweefongwong/blueberry-semantic-segmentation-berryseg-dataset))**
+**[Download the Berry-Seg dataset from Kaggle]([KAGGLE_DATASET_LINK](https://www.kaggle.com/datasets/sweefongwong/blueberry-semantic-segmentation-berryseg-dataset)**
 
 Dataset statistics, representative samples, and the expected directory structure are provided in:
 
