@@ -212,7 +212,7 @@ The BerryDINO manuscript and formal citation information will be added after pub
   title   = {BerryDINO: A Hierarchical DINOv3 Framework for Preharvest Blueberry Fruit and Postharvest Bruise Segmentation},
   author  = {Wang, Rui-Feng and Li, Changying and Chen, Yue},
   journal = {Smart Agricultural Technology},
-  year    = {Under Review}
+  year    = {Accepted}
 }
 ```
 
